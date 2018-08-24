@@ -1,1 +1,27 @@
 @import url("../fonts/glyphicons-halflings-regular.woff2");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
+
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 20px;
+}
+
+nav {
+    height: 80px;
+}
+
+.jumbotron {
+    font-size: 3em;
+}
+
+.content-one {
+    /* background: grey;
+    border: 1px solid #000; */
+    text-align: center;
+}
+
+.content-two {
+    background: salmon;
+    border: 1px solid #000;
+    text-align: center;
+}
